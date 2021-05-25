@@ -1,2 +1,1 @@
-# NCUCourseScheduling
-Louis 小雞雞
+# NCUCourseSchedulin
